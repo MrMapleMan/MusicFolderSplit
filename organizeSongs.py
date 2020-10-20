@@ -1,6 +1,6 @@
 import os
 import sys
-import eyed3
+import eyed3  # https://eyed3.readthedocs.io/en/latest/installation.html
 
 numArgs = len(sys.argv)
 if numArgs > 0:
